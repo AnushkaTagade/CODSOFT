@@ -1,2 +1,2 @@
 # CODSOFT
-Travel Blog Landing Page.(Task 1)
+it has all the tasks of internship.
