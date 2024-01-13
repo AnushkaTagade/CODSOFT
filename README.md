@@ -1,2 +1,2 @@
 # CODSOFT
-it has all the tasks of internship.
+It is the task 1 of internship(Travel Blop Landing Page).
